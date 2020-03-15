@@ -1,0 +1,23 @@
+#!/bin/bash
+# Standard output and error:
+#SBATCH -o ./examplejob.out
+#SBATCH -e ./examplejob.err
+#SBATCH -D ./
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --cpus-per-task=32
+#SBATCH -J SINGLE
+#SBATCH --mail-type=none
+#SBATCH --partition=express
+#SBATCH --time=00:30:00
+
+module load impi
+module load mkl
+
+export LD_LIBRARY_PATH="$MKL_HOME/lib/intel64"
+export OMP_NUM_THREADS=32
+export OMP_PLACES=cores
+
+mpicxx -O2 -std=c++11 MATEXP.cpp -L$MKL_HOME/lib/intel64 -lmkl_intel_lp64 -lmkl_core -lmkl_sequential -lm -fopenmp
+
+srun ./a.out > log
