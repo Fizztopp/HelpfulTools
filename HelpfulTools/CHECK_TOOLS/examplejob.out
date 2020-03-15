@@ -1,0 +1,52 @@
+                                  
+================================= 
+Global information about the job: 
+================================= 
+  
+Job owner: fizz(84527)
+Job name:  TESING
+Node list: dra0403
+Job start: Wed Aug 28 13:58:58 CEST 2019
+Job end:   Wed Aug 28 14:04:37 CEST 2019
+Work dir:  /u/fizz/CHECK_TOOLS/./
+Command:   /draco/u/fizz/CHECK_TOOLS/job.sge
+  
+  
+  
+================================================================================ 
+Information on jobsteps (Note: MaxRSS is per task, cf. "man sacct"): 
+================================================================================ 
+  
+       JobID    JobName NNodes NTasks  NCPUS     MaxRSS    Elapsed ExitCode 
+------------ ---------- ------ ------ ------ ---------- ---------- -------- 
+9534538.0         a.out      1      1     32  14176835K   00:05:38     0:15 
+  
+Maximum memory per node: 14.1768 GB
+CPU utilization: 91.2 %
+     
+                                  
+================================= 
+Global information about the job: 
+================================= 
+  
+Job owner: fizz(84527)
+Job name:  TESING
+Node list: dra0913
+Job start: Wed Aug 28 14:04:46 CEST 2019
+Job end:   Wed Aug 28 14:38:18 CEST 2019
+Work dir:  /u/fizz/CHECK_TOOLS/./
+Command:   /draco/u/fizz/CHECK_TOOLS/job.sge
+  
+  
+  
+================================================================================ 
+Information on jobsteps (Note: MaxRSS is per task, cf. "man sacct"): 
+================================================================================ 
+  
+       JobID    JobName NNodes NTasks  NCPUS     MaxRSS    Elapsed ExitCode 
+------------ ---------- ------ ------ ------ ---------- ---------- -------- 
+9534581.0         a.out      1      1     32  14176647K   00:33:33     0:15 
+  
+Maximum memory per node: 14.1766 GB
+CPU utilization: 95.2 %
+     

@@ -1,0 +1,43 @@
+# of processes 32
+Thread Thread Thread 5Thread Thread Thread Thread Thread 90Thread Thread Thread Thread Thread Thread Thread Thread Thread 25Thread Thread 2210 out of 32 says hello! out of 8 out of 32 says hello!
+
+18Thread Thread  out of 1432Thread 7 out of 32 says hello!Thread 4Thread 31632326Thread 2 out of 32 says hello!321 out of Thread 13Thread Thread 
+ out of 32 says hello!
+ out of  says hello! out of  out of 17Thread  out of 32 says hello!292427 out of 32 says hello!
+ out of 32 says hello!
+32 out of  out of Thread 19 out of 32 out of 2832Thread 1132 says hello!
+
+32 out of  out of  says hello!
+ out of Thread  out of 30 out of  out of 1532 out of 32 says hello!32
+32 says hello!
+ out of  says hello!1620 out of 32 says hello!321221 says hello!
+ out of  says hello! says hello!32 says hello!32 says hello!
+
+32
+
+32
+ says hello! says hello!
+ out of  says hello!
+
+ says hello! says hello!
+ out of 32 out of 32
+ says hello! out of 32 says hello!
+32 says hello!
+ says hello!
+32 says hello!
+32 says hello!
+
+
+32 says hello!
+
+
+
+Random Hermitian Matrix: 
+
+times+transpose()
+Calculations time (MPI): 14542.4 seconds
+Calculations time (OMP): 494.247 seconds
+
+times+transpose() (with pointer)
+Calculations time (MPI): 14676.1 seconds
+Calculations time (OMP): 501.154 seconds
