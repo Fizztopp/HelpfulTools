@@ -1,0 +1,31 @@
+                                  
+================================= 
+Global information about the job: 
+================================= 
+  
+Job owner: fizz(84527)
+Job name:  EDC_MPI
+Node list: dra[0361-0362,0367,0381]
+Job start: Mon Nov 12 16:55:24 CET 2018
+Job end:   Mon Nov 12 16:55:41 CET 2018
+Work dir:  /u/fizz/SUB_CYCLE_ARPES/TESTING/0.01/./
+Command:   /draco/u/fizz/SUB_CYCLE_ARPES/TESTING/0.01/job_EDC_SIGMA.sge
+  
+  
+  
+================================================================================ 
+Information on jobsteps (Note: MaxRSS is per task, cf. "man sacct"): 
+================================================================================ 
+  
+       JobID    JobName NNodes NTasks  NCPUS     MaxRSS    Elapsed ExitCode 
+------------ ---------- ------ ------ ------ ---------- ---------- -------- 
+6551677.0         a.out      4    128    128     12891K   00:00:02      0:0 
+6551677.1         a.out      4    128    128     12890K   00:00:02      0:0 
+6551677.2         a.out      4    128    128     13017K   00:00:01      0:0 
+6551677.3         a.out      4    128    128     12992K   00:00:02      0:0 
+6551677.4         a.out      4    128    128     12835K   00:00:02      0:0 
+6551677.5         a.out      4    128    128     12916K   00:00:02      0:0 
+  
+Maximum memory per node: 0.416544 GB
+CPU utilization: 0 %
+     

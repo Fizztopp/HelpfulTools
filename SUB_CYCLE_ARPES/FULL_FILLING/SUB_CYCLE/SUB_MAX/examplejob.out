@@ -1,0 +1,26 @@
+                                  
+================================= 
+Global information about the job: 
+================================= 
+  
+Job owner: fizz(84527)
+Job name:  SUB_CYCLE_MAX_full
+Node list: dra[0051-0052,0061,0064]
+Job start: Mon Nov 12 12:45:23 CET 2018
+Job end:   Mon Nov 12 12:45:54 CET 2018
+Work dir:  /u/fizz/SUB_CYCLE_ARPES/FULL_FILLING/SUB_CYCLE/SUB_MAX/./
+Command:   /draco/u/fizz/SUB_CYCLE_ARPES/FULL_FILLING/SUB_CYCLE/SUB_MAX/job.sge
+  
+  
+  
+================================================================================ 
+Information on jobsteps (Note: MaxRSS is per task, cf. "man sacct"): 
+================================================================================ 
+  
+       JobID    JobName NNodes NTasks  NCPUS     MaxRSS    Elapsed ExitCode 
+------------ ---------- ------ ------ ------ ---------- ---------- -------- 
+6549872.0         a.out      4    128    128   4140568K   00:00:29      0:0 
+  
+Maximum memory per node: 132.498 GB
+CPU utilization: 2683.9 %
+     
