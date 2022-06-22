@@ -1,4 +1,4 @@
 Cython==0.29.7
 numba==0.43.1
-numpy==1.16.3
+numpy==1.22.0
 
